@@ -17,4 +17,4 @@ function valida(f) {
 		alert(msg);
 	  
 	  
-	}
+	} 
